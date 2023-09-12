@@ -1,6 +1,7 @@
 /**
  *   @file: gas_consumption.cc
- * @author: Enter your name
- *   @date: Enter the date
- *  @brief: Add Description
+ * @author: Braden Schneider
+ *   @date: 09/12/2023
+ *  @brief: First hw project for cs 2400 about gas consumption
  */
+
